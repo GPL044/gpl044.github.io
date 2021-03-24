@@ -10,7 +10,7 @@ title : "프린트2"
 
 
 
-~~~pytjon
+~~~
 s=input("주어 :")
 ad=input("보어 : ")
 v=input("용언 : ")
