@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "GPL"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/roach_dance.png"
   bio              : "올빼미과학생 ㅇㅅㅇ"
   location         : "대한민국, 경기도"
   email            : "gpl8731@gmail.com"
