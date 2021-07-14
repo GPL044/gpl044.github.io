@@ -20,7 +20,7 @@ title: "미니 프로젝트"
 
 
 ~~~python
-SeedMoney=1000000
+SeedMoney=10000
 
 while SeedMoney>0:
   GameType=int(input("1=룰렛, 2=로또, 3=야바위: "))
